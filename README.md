@@ -226,3 +226,7 @@ La opción --force o -f permite subir un repositorio incompatible, pero ¡Cuidad
 
 
 Si accedemos al repositorio creado en Github podemos ver que están ambas ramas con el contenido que hemos subido.
+
+#### Capturas de pantalla:
+
++ Almacenadas en la carpeta `screenshots/`
